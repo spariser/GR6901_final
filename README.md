@@ -1,5 +1,5 @@
-## GR6901_final
-# Research the relationship between high temperature anomalies and state-aggregate construction and all-industry GDP
+# GR6901_final
+## Research the relationship between high temperature anomalies and state-aggregate construction and all-industry GDP
 
 This project will look at the relationship between maximum daily temperature and gross domestic product. This project specifically looks to see if anomalies in temperature affect GDP overall and in particular construction GDP, a sector at high risk of heat related issues. For both GDP, this project will analyze seasonally adjusted GDP aggregated by state.
 
